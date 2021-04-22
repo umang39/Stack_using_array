@@ -1,0 +1,45 @@
+{
+
+   "details": [
+       {
+			"Experiment": "Implementation of stack using array",     
+			"Lab": "Data Structure",               
+			"Discipline": "Computer Science",				 
+			"Technology": "Html,Css,JavaScript"         
+       }
+   ],
+
+   "developer": [
+       {       
+      "Developer": "Er. Anuj Gupta",         
+      "Institute": "Bundelkhand Institute of Engineering and Technology Jhansi",         
+      "InstituteAcronym": "BIET"   
+       }
+   ],
+
+   "contributer": [
+       {       
+			"Contributer": "Abhishek Chauhan",             
+      "Institute": "Bundelkhand Institute of Engineering and Technology Jhansi",               
+			"InstituteAcronym": "BIET"         
+       },
+
+       {       
+			"Contributer": "Avinash Chandravansi",              
+      "Institute": "Bundelkhand Institute of Engineering and Technology Jhansi",               
+			"InstituteAcronym": "BIET"         
+       },
+
+       {       
+			"Contributer": "Rishi Bajpai",             
+      "Institute": "Bundelkhand Institute of Engineering and Technology Jhansi",               
+			"InstituteAcronym": "BIET"         
+       },
+
+       {       
+			"Contributer": "Umang Gupta",              
+      "Institute": "Bundelkhand Institute of Engineering and Technology Jhansi",               
+			"InstituteAcronym": "BIET"         
+       }
+   ]
+}
